@@ -1,0 +1,258 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.header1{
+	width: 100%;
+	height: 30px;
+	background: black;
+}
+
+.header2{
+	width: 369px;
+	height: 100px;
+	background: white;
+	background-attachment: fixed;
+}
+
+.header2 img{
+	width: 115px;
+    height: 49px;
+    padding-top: 26px;
+    padding-left: 109px;
+}
+
+.dropdown{
+	width: 135px;
+    color: black;
+    background: white;
+    margin-top: 41px;
+    margin-left: 25px;
+    font-size: 13px;
+    border: 0 solid;
+}
+
+.dropdown:hover{
+	color: red;
+	transition: 0.8s;
+}
+
+.header3{
+	width: 998px;
+    height: 100px;
+    background: white;
+    margin-left: 368px;
+    margin-top: -100px;
+}
+
+#man{
+	color: black;
+	font-size: 20px;
+	padding-left: 12px;
+}
+
+#man:hover{
+	color: red;
+}
+
+.header4{
+	width: 100%;
+	height: 40px;
+	background: white;
+}
+
+#carticon{
+	font-size: 14px;
+	margin-left: 1254px;
+}
+
+#carticon:hover{
+	color: red;
+}
+
+.header5{
+	background: url(../image/banner.webp);
+	width: 100%;
+	height: 750px;
+	background-size: cover;
+}
+
+.header5:hover{
+	background: blac;
+	opacity: 0.2;
+	transition: 0.4s;
+}
+
+#butone{
+    border: 1px solid black;
+    width: 165px;
+    height: 60px;
+    background: #efe1e187;
+    margin-top: 377px;
+    margin-left: 170px;
+    border-radius: 9px;
+    font-size: 19px;
+    font-family: none;
+}
+
+.header6{
+	width: 100%;
+	height: 790px;
+	background: white;
+}
+
+.product{
+	width: 288px;
+    height: 301px;
+    background: black;
+    border: 1px solid white;
+    float: left;
+    margin-left: 34px;
+    margin-top: 50px;
+}
+
+.product img{
+	width: 288px;
+	height: 301px;
+}
+
+.product img:hover{
+	opacity: 0.8;
+}
+
+.name{
+	text-align: center;
+	color: white;
+    margin-top: -177px;
+    font-weight: bolder;
+    font-size: 23px;
+}
+
+.header7{
+	width: 100%;
+	height: 510px;
+	background: url(../image/handmade.webp);
+	background-size: cover;
+
+}
+
+.header7:hover{
+	opacity: 0.8;
+}
+
+.buttwo{
+	width: 149px;
+    height: 48px;
+    margin-top: 47px;
+    font-size: 16px;
+    border: 0px solid;
+    border-radius: 8px;
+    background: #d5c3c359;
+    color: white;
+}
+
+.buttwo:hover{
+	background:#d5c3c38c;
+	transition: 0.3s;
+}
+
+.header8{
+	width: 100%;
+	height: 1100px;
+	background: white;
+}
+
+.prod{
+	width: 573px;
+    height: 472px;
+    background: black;
+    border: 1 px solid white;
+    float: left;
+    border: 1px solid;
+    margin-left: 71px;
+    margin-top: 35px;
+}
+
+.prod img{
+	width: 573px;
+	height: 472px;
+}
+
+.prodname{
+	color: white;
+	margin-top: -263px;
+}
+
+.prod img:hover{
+	opacity: 0.8;
+}
+
+.header9{
+	width: 100%;
+	height: 300px;
+	background: black;
+}
+
+.header9 input{
+	margin-left: 499px;
+    width: 230px;
+    height: 39px;
+    padding-left: 11px;
+    border: 0 solid;
+    border-radius: 5px;
+}
+
+.butthree{
+	font-size: 17px;
+    width: 100px;
+    height: 41px;
+    background: grey;
+    color: white;
+    border-radius: 5px;
+    margin-left: 9px;
+    margin-top: 2px;
+}
+
+.butthree:hover{
+	background: black;
+}
+
+.footer1{
+	width: 450px;
+	height: 480px;
+	background: white;
+}
+
+.footer2{
+
+	width: 899px;
+    height: 480px;
+    background: white;
+    margin-left: 450px;
+    margin-top: -480px;
+}
+
+.footer1 p{
+	margin-top: 50px;
+    margin-left: 51px;
+}
+
+.footer2 p{
+	margin-top: 50px;
+    margin-left: 51px;
+}
+
+.footer2 i{
+	margin-left: 20px;
+}
+
+.footer2 i:hover{
+	color: red;
+}
+
+.last{
+	width: 100%;
+	height: 30px;
+	background: white;
+}
